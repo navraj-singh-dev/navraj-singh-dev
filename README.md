@@ -31,7 +31,7 @@
 
 - 📫 Feel free to reach me out **navrajsingh.dev@gmail.com**
 
-- 🧷 [See My Resume...](https://drive.google.com/file/d/1uI0PJmcQKhXSnMdMeOBf22fqPGbcA0lk/view?usp=drive_link)
+- 🧷 [See My Resume...](https://drive.google.com/file/d/1DCgPC9-AaHCTq6LtDJg6NDl-v0D3C6VJ/view?usp=drive_link)
   
 - 🧷 [See My Linked-In...](https://www.linkedin.com/in/navraj-singh-78b746210/)
   
