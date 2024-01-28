@@ -35,7 +35,7 @@
   
 - 🧷 [See My Linked-In...](https://www.linkedin.com/in/navraj-singh-78b746210/)
   
-- 🧷 [See My Blogs...](https://navraj-blog.hashnode.dev/)
+- 🧷 [See My Blogs...](https://hashnode.com/@NavrajSingh)
   
 - 🧷 [See My Twitter...](https://twitter.com/NavrajSinghDev)
 
