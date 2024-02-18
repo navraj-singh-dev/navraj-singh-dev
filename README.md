@@ -7,13 +7,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -23,11 +16,11 @@
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning and implementing Back-End : **Nodejs, Expressjs, MongoDB.**
+- 🌱 I’m currently learning and implementing Back-End : **Nodejs, Expressjs, MongoDB, Mongoose, Aggregation Pipelines, JWT, Brypt, Industry Standard Practices, etc.**
 
 - 🫀 Open for **Internship/Jobs Opportunities.**
 
-- ☁️ I've keen interest in MERN Stack. So i aspire to become **Full-Stack MERN Developer.**
+- ☁️ I've keen interest in MERN Stack & DevOps. So i aspire to become **Full-Stack Developer With Some DevOps.**
 
 - 📫 Feel free to reach me out **navrajsingh.dev@gmail.com**
 
