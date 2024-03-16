@@ -10,7 +10,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Its not about the amount of green dots, it is about effort and value behind a single green dot.</h2></summary>
   </ul>
 </div>
 
@@ -20,7 +20,7 @@
 
 - 🫀 Open for **Internship/Jobs Opportunities.**
 
-- ☁️ I've keen interest in MERN Stack & DevOps. So i aspire to become **Full-Stack Developer With Some DevOps.**
+- ☁️ I've keen interest in Backend & DevOps.
 
 - 📫 Feel free to reach me out **navrajsingh.dev@gmail.com**
 
