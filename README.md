@@ -16,23 +16,21 @@
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning and implementing DevOps : **CI/CD, Cloud in AWS, Containerization in Docker, Linux, Bash Scripting, Infrastructure as code in Terraform, Kubernetes, Ansible, Golang etc.**
+- 🌱 I’m currently learning and implementing DevOps : **CI/CD, Cloud in AWS, Containerization in Docker, Linux, Bash Scripting, Infrastructure as code in Terraform, Kubernetes, HELM, Ansible, Golang etc.**
 
-- 💫 I have a previous development background in javascript and nodejs and related backend technologies.
+- 💫 I have a background in backend development & API's with javascript, nodejs, expressjs and related backend technologies.
 
 - 🫀 Open for **Internship/Jobs Opportunities.**
 
-- ☁️ I've keen interest in Nodejs Backend & DevOps Tools & Technologies.
+- ☁️ I've keen interest in Backend & DevOps Tools & Technologies.
 
-- 📝 I write educational and technical blogs on hashnode about backend and devops tools and technologies to give back to the community.
+- 📝 I post technical content through blogs on hashnode about backend & devops to help other programmer learn.
 
 - ♾️ I implement "Learn In Public" & "Build In Public" methodologies.
 
 - 📫 Feel free to reach me out **navrajsingh.dev@gmail.com**
-
-- 🧷 [See My Resume...](https://drive.google.com/file/d/1V58TSdt3flOv7PUKZaoez9H_pec-2oTi/view?usp=sharing)
   
-- 🧷 [See My Linked-In...](https://www.linkedin.com/in/navraj-singh-78b746210/)
+- 🧷 [See My LinkedIn...](https://www.linkedin.com/in/navraj-singh-78b746210/)
   
 - 🧷 [See My Blogs...](https://hashnode.com/@NavrajSingh)
   
@@ -50,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,github,go,ubuntu,githubactions,terraform,ansible,kubernetes,html,css,js,nodejs,expressjs,mongodb,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,linux,aws,bash,docker,git,github,go,ubuntu,githubactions,prometheus,grafana,elasticsearch,terraform,ansible,html,css,js,nodejs,expressjs,mongodb,postman,py,vscode&perline=14" />
   </a>
 </p>
 
